@@ -1,0 +1,10 @@
+body {background-color: black;}
+h1   {color: red; text-align:center;}
+h2   {color: green; text-align:center;}
+h3   {color: blue; text-align:center;}
+h4   {color: darkgreen; text-align:center;}
+h5   {color: grey;}
+h6   {color: darkblue;}
+p    {color: blue;}
+p1   {color: white;}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
